@@ -1,4 +1,4 @@
-# Rnaseqpinaster
+# Rnaseqpinaster #
 ## Análisis diferencial DESeq2 ##
 ### Pruebas Biorender ###
 
@@ -11,7 +11,7 @@ library("readr")
 library("DESeq2")
 library("ggplot2")
 
-# PRIMERO CARGAMOS LOS DATOS # 
+#### PRIMERO CARGAMOS LOS DATOS ####
 
 Con el siguiente código establezco mi *working directory*. Compruebo que esté bien establecido con getwd(). Con outputPrefix le digo que los archivos acaben en esa terminación.
 
